@@ -1,6 +1,6 @@
-# ns-js-system
+# zxw-element-tab
 
-> 南师绩效考核管理系统
+> 基于element的tab实现
 
 ## Build Setup
 
