@@ -59,6 +59,12 @@ export default {
           tab:'story1',
           componentName:'story',
         },
+        {
+          path:'/page/mergeCell',
+          label:'合并单元格demo',
+          tab:'story1',
+          componentName:'story',
+        },
       ],
       editableTabsValue:'',
       editableTabs: [],
